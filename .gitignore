@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.DS_Store
+
+spotify.csv
+
+outputs/
+
+venv/
