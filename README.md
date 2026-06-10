@@ -21,7 +21,7 @@ Python 3.10+
 pip
 
 Installera beroenden
-bashpip install -r requirements.txt
+pip install -r requirements.txt
 requirements.txt innehåller:
 pandas
 plotly
